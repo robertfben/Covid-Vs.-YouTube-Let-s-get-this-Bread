@@ -38,3 +38,9 @@ The time period we are focusing our research on is data that ranges from 08/2020
      - Which three video categories had the highest volume of videos posted? 
      - Did seasonality potentially drive content creators to post more? Out of the three categories with the highest volume of videos posted, which month did each category have the highest amount of videos posted?
           - Can we surmise any anecdotal conclusions based on the findings? 
+  
+### Datasets to Be Used:
+
+Youtube API - https://developers.google.com/youtube/v3/getting-started#quota
+Kaggle dataset - link here
+
