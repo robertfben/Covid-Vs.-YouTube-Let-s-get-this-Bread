@@ -22,12 +22,10 @@ The time period we are focusing our research on is data that ranges from 08/2020
 
 ## Research Questions to Answer:
 
-1) Most popular trending videos- based on likes, view counts, and unique days the video trended
-    - What drives a video’s popularity? Likes or dislikes
-    - Based on our dataset, what is the probability of these videos gaining popularity
-        - Correlation of view counts and likes
-        - Correlation of view counts and dislikes
-        - Using outliers and boxplots 
+1) Popular trending videos analysis- based on likes, views, comments and dislikes
+    - Based on our dataset, what are the chances of a video gaining popularity?
+        - Bell curve of the 4 categories, visualizing a peak count of each column
+        - Find outliers and the 1st 2nd and 3rd standard deviations. 
         
 2) Popularity of video categories during covid
     - In the time period defined, which three video categories had the highest volume of videos posted?
