@@ -41,6 +41,6 @@ The time period we are focusing our research on is data that ranges from 08/2020
   
 ### Datasets to Be Used:
 
-Youtube API - https://developers.google.com/youtube/v3/getting-started#quota
-Kaggle dataset - link here
+    - Youtube API - https://developers.google.com/youtube/v3/getting-started#quota
+    - Kaggle dataset - https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_youtube_trending_data.csv
 
