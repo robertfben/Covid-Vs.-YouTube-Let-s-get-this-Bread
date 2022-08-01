@@ -18,16 +18,14 @@ Daniel Webber.
 
 Our goal is to analyze a variety of trends of YouTube viewership during the height of the second U.S. COVID wave. We plan to use a dataset acquired from kaggle.com and the Google API for YouTube usage to determine a number of key factors around channel popularity, popular search trends by month, and total accounts created in the time period. 
 
-The time period we are focusing our research on is data that ranges from 08/2020 through 08/2021 for a COVID time frame, as well as data from 09/2021-07/2022 for Post-COVID.
+The time period we are focusing our research on is data that ranges from 08/2020-08/2021 for a COVID time frame, as well as data from 09/2021-07/2022 for Post-COVID.
 
 ## Research Questions to Answer:
 
-1) Most popular trending videos- based on likes, view counts, and unique days the video trended
-    - What drives a video’s popularity? Likes or dislikes
-    - Based on our dataset, what is the probability of these videos gaining popularity
-        - Correlation of view counts and likes
-        - Correlation of view counts and dislikes
-        - Using outliers and boxplots 
+1) Popular trending videos analysis- based on likes, views, comments and dislikes
+    - Based on our dataset, what are the chances of a video gaining popularity?
+        - Bell curve of the 4 categories, visualizing a peak count of each column
+        - Find outliers and the 1st 2nd and 3rd standard deviations. 
         
 2) Popularity of video categories during covid
     - In the time period defined, which three video categories had the highest volume of videos posted?
