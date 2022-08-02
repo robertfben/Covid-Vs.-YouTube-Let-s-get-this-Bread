@@ -2,17 +2,6 @@
 ![quarantine](https://user-images.githubusercontent.com/106038659/182401899-49b4a117-5850-4efd-8a4a-990ec26001bd.jpg)
 
 ## Team Members Involved in Project:
-
-
-| Questions       | Group Members        | Cool  |
-| ------------- |:-------------:| -----:|
-| Question 1    | Michael Ariwodo,
-                  Gina Schulte,
-                  Preethi reddy Vontela  | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 Michael Ariwodo, 
 Robert (Bobby) Benedict, 
 Hector Custodio, 
