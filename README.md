@@ -49,7 +49,6 @@ The time period we are focusing our research on is data that ranges from 08/2020
 *   The charts are stored as `png` files in the respective question folders.
 *   The presentation file name is `XXXXXXXX`
 *   The presentation is available in the following link: 
-        https://docs.google.com/presentation/d/1JuFKPC4ZFMl9zNbtzGZr3N8o_SZvOi0C/edit?    
-            usp=sharing&ouid=107913522589879477542&rtpof=true&sd=true
+        https://docs.google.com/presentation/d/1JuFKPC4ZFMl9zNbtzGZr3N8o_SZvOi0C/edit? usp=sharing&ouid=107913522589879477542&rtpof=true&sd=true
 *   Finally, the project write up is available in the following google doc link:
         https://docs.google.com/document/d/1wbp8bVvYDcHkXTA23oZX6VCJkun-1-jvnegdljUrK5M/edit 
