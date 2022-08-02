@@ -46,7 +46,7 @@ The time period we are focusing our research on is data that ranges from 08/2020
 
 *   Created a new repository for this project called `Covid-Vs.-YouTube-Let-s-get-this-Bread`.   
 *   Created subfolders -> `Question 1, Question 2 and Question 3` for storing files for each of the 3 questions   
-*   The charts are stored as `png` files in the respective question folders.   
+*   The charts are stored as `.png` files in the respective question folders.   
 *   The presentation is available in the following link: 
     https://docs.google.com/presentation/d/1JuFKPC4ZFMl9zNbtzGZr3N8o_SZvOi0C/edit?usp=sharing&ouid=107913522589879477542&rtpof=true&sd=true
         
