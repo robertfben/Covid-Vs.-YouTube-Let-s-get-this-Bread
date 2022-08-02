@@ -1,4 +1,4 @@
-# Covid Vs. YouTube : Letâ€™s get this Bread, or notâ€¦
+# Covid Vs. YouTube : Let's get this Bread, or not...
 
 ## Team Members Involved in Project:
 
