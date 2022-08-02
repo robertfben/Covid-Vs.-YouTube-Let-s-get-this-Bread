@@ -1,4 +1,5 @@
 # Covid Vs. YouTube : Let's get this Bread, or not...
+![quarantine](https://user-images.githubusercontent.com/106038659/182401899-49b4a117-5850-4efd-8a4a-990ec26001bd.jpg)
 
 ## Team Members Involved in Project:
 
