@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://files.slack.com/files-pri/T03D1UR8YP9-F03R1D38X0D/download/us_youtube_trending_data.csv?origin_team=T03D1UR8YP9</string>
-</dict>
-</plist>
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6e38eb0093d0d75b6ca65a9611fc0f8feca50758ee92e7276a85fd53aedca4
+size 342
