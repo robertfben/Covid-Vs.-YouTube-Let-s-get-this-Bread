@@ -18,7 +18,7 @@ Daniel Webber.
 
 Our goal is to analyze a variety of trends of YouTube viewership during the height of the second U.S. COVID wave. We plan to use a dataset acquired from kaggle.com and the Google API for YouTube usage to determine a number of key factors around channel popularity, popular search trends by month, and total accounts created in the time period. 
 
-The time period we are focusing our research on is data that ranges from 08/2020 through 08/2021 for a COVID time frame, as well as data from 09/2021-07/2022 for Post-COVID.
+The time period we are focusing our research on is data that ranges from 08/2020-08/2021 for a COVID time frame, as well as data from 09/2021-07/2022 for Post-COVID.
 
 ## Research Questions to Answer:
 
