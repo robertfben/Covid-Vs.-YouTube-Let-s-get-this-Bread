@@ -25,7 +25,7 @@ The time period we are focusing our research on is data that ranges from 08/2020
 1) Popular trending videos analysis- based on likes, views, comments and dislikes
     - Based on our dataset, what are the chances of a video gaining popularity?
         - Bell curve of the 4 categories, visualizing a peak count of each column
-        - Find outliers and the 1st 2nd and 3rd standard deviations. 
+        - Find outliers and the 1st, 2nd, and 3rd standard deviations. 
         
 2) Popularity of video categories during covid
     - In the time period defined, which three video categories had the highest volume of videos posted?
