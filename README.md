@@ -27,16 +27,23 @@ The time period we are focusing our research on is data that ranges from 08/2020
         - Bell curve of the 4 categories, visualizing a peak count of each column
         - Find outliers and the 1st, 2nd, and 3rd standard deviations. 
         
+        ![views_mean_std](https://user-images.githubusercontent.com/91276925/182706125-deb9f3e9-703b-450a-abad-2be57770300b.png)
+
+        
 2) Popularity of video categories during covid
     - In the time period defined, which three video categories had the highest volume of videos posted?
         - For each category, what was the average view count per video?
         - Can we determine a correlation of like count to volume of views?
         
+        ![Top 10 Video Categories By Video Uploads 08-2020 to 08-2021](https://user-images.githubusercontent.com/91276925/182706240-20d46f81-07b8-4c26-a584-8a2711cda462.png)
+
 3) Video category analysis:
      - Which three video categories had the highest volume of videos posted? 
      - Did seasonality potentially drive content creators to post more? Out of the three categories with the highest volume of videos posted, which month did each category have the highest amount of videos posted?
           - Can we surmise any anecdotal conclusions based on the findings? 
-  
+ 
+ ![Top_3_Categories_VolumeTrend](https://user-images.githubusercontent.com/91276925/182706289-3ee37134-ebfb-4521-bd95-3b58abaccea0.png)
+
 ### Datasets to Be Used:
 
     - Youtube API - https://developers.google.com/youtube/v3/getting-started#quota
